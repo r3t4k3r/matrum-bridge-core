@@ -1,2 +1,3 @@
 Flask==2.2.2
+nio==3.4.2
 simplematrixbotlib==2.7.2
